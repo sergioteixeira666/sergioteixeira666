@@ -19,11 +19,8 @@
     </a>
   </div>
   <br><br><br><br><br><br><br><br><br>
-
   </p>
-
 <hr>
-
 <!-- linguagens -->
 <div> 
   <div style="display: inline_block">
